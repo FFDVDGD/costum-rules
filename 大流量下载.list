@@ -1,4 +1,4 @@
 DOMAIN,cas-bridge.xethub.hf.co
 DOMAIN,download.pytorch.org
 DOMAIN,files.pythonhosted.org
-DOMAIN-SUFFIXcloudflarestorage.com
+DOMAIN-SUFFIX,cloudflarestorage.com
