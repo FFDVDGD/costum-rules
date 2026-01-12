@@ -1,10 +1,11 @@
-#DOMAIN-SUFFIX,synology.me
-DOMAIN,webserver.cg808.top
+DOMAIN-SUFFIX,synology.me
+DOMAIN-SUFFIX,cg808.top
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN,c-z0-api-01.hash070.com
 DOMAIN,crushedgoose808-my.sharepoint.com
 DOMAIN,fastly-download.epicgames.com
 DOMAIN,download.epicgames.com
 DOMAIN,epicgames-download1.akamaized.net
+
 
 
