@@ -6,6 +6,5 @@ DOMAIN,crushedgoose808-my.sharepoint.com
 DOMAIN,fastly-download.epicgames.com
 DOMAIN,download.epicgames.com
 DOMAIN,epicgames-download1.akamaized.net
-
-
-
+DOMAIN-SUFFIX,test-ipv6.com
+DOMAIN-SUFFIX,speedtest.net
