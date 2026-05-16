@@ -1,6 +1,6 @@
 DOMAIN,cas-bridge.xethub.hf.co
-DOMAIN,download.pytorch.org
-DOMAIN,files.pythonhosted.org
+#DOMAIN,download.pytorch.org
+#DOMAIN,files.pythonhosted.org
 DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN,downloads.topazlabs.com
 DOMAIN,models-bal.topazlabs.com
@@ -10,4 +10,4 @@ DOMAIN,search.lmstudio.ai
 DOMAIN,updates.lmstudio.ai
 DOMAIN,extensions.lmstudio.ai
 DOMAIN,transfer.xethub.hf.co
-DOMAIN,download-r2.pytorch.org
+#DOMAIN,download-r2.pytorch.org
