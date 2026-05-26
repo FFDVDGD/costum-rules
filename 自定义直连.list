@@ -9,7 +9,7 @@ DOMAIN,epicgames-download1.akamaized.net
 DOMAIN-SUFFIX,test-ipv6.com
 #DOMAIN-SUFFIX,speedtest.net
 DOMAIN-KEYWORD,kaspersky
-IP-CIDR,8.148.81.55/32
+IP-CIDR,8.148.81.55/32,no-resolve
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN,dl.steam.clngaa.com
 DOMAIN,gstore.val.smogfly.com
