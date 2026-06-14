@@ -24,6 +24,6 @@ DOMAIN,www.bsbsb.top
 DOMAIN,outlook.office365.com
 DOMAIN,smtp-mail.outlook.com
 DOMAIN-SUFFIX,deepseek.com
-DOMAIN-SUFFIX,cdn.gaijin.net
+#DOMAIN-SUFFIX,cdn.gaijin.net
 DOMAIN,router.bittorrent.com
 DOMAIN,dht.libtorrent.org
