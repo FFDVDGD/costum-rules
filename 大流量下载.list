@@ -11,3 +11,4 @@ DOMAIN,updates.lmstudio.ai
 DOMAIN,extensions.lmstudio.ai
 DOMAIN,transfer.xethub.hf.co
 #DOMAIN,download-r2.pytorch.org
+DOMAIN-SUFFIX,cdn.hf.co
