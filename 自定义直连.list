@@ -27,3 +27,4 @@ DOMAIN-SUFFIX,deepseek.com
 #DOMAIN-SUFFIX,cdn.gaijin.net
 DOMAIN,router.bittorrent.com
 DOMAIN,dht.libtorrent.org
+DOMAIN-SUFFIX,prod.mcdn.robertsspaceindustries.com
