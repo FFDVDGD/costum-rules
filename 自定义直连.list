@@ -31,3 +31,4 @@ DOMAIN,dht.libtorrent.org
 DOMAIN-SUFFIX,prod.mcdn.robertsspaceindustries.com
 DOMAIN,kan.waiguotai.top
 IP-CIDR,8.155.136.192/32,no-resolve
+DOMAIN,cn.archive.ubuntu.com
